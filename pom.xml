@@ -25,11 +25,11 @@
    <distributionManagement>
       <repository>
           <id>artifactory</id>
-          <url>${dl-private-releases}</url>
+          <url>${private-releases}</url>
       </repository>
       <snapshotRepository>
           <id>artifactory</id>
-          <url>${dl-private-snapshots}</url>
+          <url>${private-snapshots}</url>
       </snapshotRepository>
   </distributionManagement>
 
